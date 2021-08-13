@@ -1,1 +1,1 @@
-# IS-project3
+# IS - Project 3: Django + ReactJS
